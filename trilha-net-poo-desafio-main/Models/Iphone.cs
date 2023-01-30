@@ -1,7 +1,7 @@
 namespace DesafioPOO.Models
 {
     // TODO: Herdar da classe "Smartphone"
-    //IMPLEMENTADO LINHA 5 E 9
+    //IMPLEMENTADO LINHA 5, 7 E 9
     public class Iphone : Smartphone
     {   
         public Iphone(string numero, string modelo, int imei, int memoria) : base(numero, modelo, imei, memoria)
